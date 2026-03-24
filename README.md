@@ -25,8 +25,4 @@ This project predicts the risk of **Stroke** using patient data. It helps identi
 ## Files
 - `stroke-prediction.ipynb` – notebook with all steps  
 
----
 
-**Author:** Lina Boumahrane  
-**University:** University of Algiers 1  
-**Field:** Data Science
